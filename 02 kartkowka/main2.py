@@ -1,7 +1,6 @@
 import os
 import json
 
-
 if os.path.exists("dane_wyjsciowe.txt"):
     os.remove("dane_wyjsciowe.txt")
 
